@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/nimaaghli/PycharmProjects/tensor_2/my_test_model.ckpt"
+all_model_checkpoint_paths: "/Users/nimaaghli/PycharmProjects/tensor_2/my_test_model.ckpt"
